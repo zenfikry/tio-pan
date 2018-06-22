@@ -54,11 +54,11 @@
 /* Default theme */
 
 .slinky-menu {
-	background: #141414;
+	background: white;
 }
 
 .slinky-menu h2 {
-	color:#aaa ;
+	color:#686868 ;
 	padding: 1em;
 }
 
@@ -68,7 +68,7 @@
 
 .slinky-menu a {
 	border: none;
-	color: #aaa;
+	color: #686868;
 	padding: 1em;
 }
 
